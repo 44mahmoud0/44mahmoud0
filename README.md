@@ -8,8 +8,8 @@
 ![Windows](https://img.shields.io/badge/Windows-C%23%20%7C%20.NET%208-512bd4?style=for-the-badge)
 ![Arabic](https://img.shields.io/badge/العربية-first-ff2e88?style=for-the-badge)
 
-**Mahmoud Altarabeen — مبرمج وباحث أمن سيبراني.** I train my own model
-(**Saqr AI**), I build my own Windows AI assistant (**Mahmoud Altarabeen**),
+**Independent builder & cybersecurity researcher.** I train my own model
+(**Saqr AI**), I build my own Windows AI assistant (**Najma — نجمة**),
 and I turn strong open-source tools into one-click Arabic Windows apps with
 real improvements — never a rename, never a copy without credit.
 
@@ -19,10 +19,10 @@ real improvements — never a rename, never a copy without credit.
 
 | Project | What it is | Status |
 |---|---|---|
-| **🦅 Saqr AI** | My own fine-tuned coding model (Fireworks, Glimmer 30B base), trained round by round on reasoning-first data — analyse, plan, verify, correct. | 🔄 Training round **v9** in progress — targets arithmetic on the question's own numbers. Champion so far: **v4 — 5.67/6** (v8: 5.33/6). Install into Altarabeen comes only after v20, together with my own safety layer. |
-| **💻 Mahmoud Altarabeen** | My C# / .NET 8 WinUI 3 AI assistant for Windows — multi-provider chat, agent loop, skills, memory, floating star widget. | 🟢 Built and running on my PC. Saqr install pending the v20 chain. |
+| **🦅 Saqr AI** | My own fine-tuned coding model (Fireworks, Glimmer 30B base), trained round by round on reasoning-first data — analyse, plan, verify, correct. | 🔄 Training round **v9** in progress — targets arithmetic on the question's own numbers. Champion so far: **v4 — 5.67/6** (v8: 5.33/6). Install into Najma comes only after v20, together with my own safety layer. |
+| **⭐ Najma — نجمة** | My C# / .NET 8 WinUI 3 AI assistant for Windows — multi-provider chat, agent loop, skills, memory, floating star widget. Named for the star that guides it. | 🟢 Built and running on my PC. Saqr install pending the v20 chain. |
 | **🚀 Anwar** | One-click tunnel + Roblox launcher for a locked-down challenge laptop — live monitor built in, cause line visible, self-repair logged. | 🟢 **v12 published** — tunnel 22.6 MB/s, 14.3 ms latency, zero loss. |
-| **🔍 AI Text Detector** | Multi-engine AI-text detection website + local server (DeBERTa + e5 ensemble, calibrated 27/27). | 🟢 Live at `m.taild13f1d.ts.net/detector` |
+| **🔍 Bayyinah — بيّنة · AI Text Detector** | Multi-engine AI-text detection website + local server (DeBERTa + e5 ensemble, calibrated 27/27). | 🟢 Live at `m.taild13f1d.ts.net/detector` |
 | **🤖 Strong30** | My own private local AI on my PC — uncensored 30B model, OpenClaw gateway, Telegram bot, all outbound traffic through Tor. | 🟢 Live, owner-only. Uncensored battery passed 7/7 on my real requests. |
 
 ---
